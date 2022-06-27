@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "E:\\Projects\\LCO\\Javascript\\proj1_lyst1313\\proj1"
+		},
+		{
+			"path": "E:\\Projects\\LCO\\Javascript\\proj2_lyst5378\\proj2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "proj2"
+	}
+}
