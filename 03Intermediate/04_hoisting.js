@@ -5,8 +5,8 @@ function tipper(a){
     console.log(bill + 5);
 }
 
-var bigTipper = function(a){
-    var bill = parseInt(a);
-    console.log(bill + 10);
-}
-bigTipper("50");
+// var bigTipper = function(a){
+//     var bill = parseInt(a);
+//     console.log(bill + 10);
+// }
+// bigTipper("50");
